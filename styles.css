@@ -1,0 +1,10 @@
+#players{
+    text-align: center;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#button{
+    margin: auto;
+    display: block;
+}
